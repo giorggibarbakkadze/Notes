@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="username" />
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="todo">TODO</string>
+    <string name="notes_app">Notes App</string>
+    <string name="sign_in_with_your_google_account">Sign in with your google account</string>
+</resources>
